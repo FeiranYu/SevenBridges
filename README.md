@@ -7,4 +7,4 @@
 使用退火算法（Simulated_annealing）进行求解
 使用GDI绘图，制作可视化界面
 
-博客链接 [yufeiran.com](yufeiran.com/you-di-yuan-wen-ti-yu-tui-huo-suan-fa/)
+博客链接 [yufeiran.com](http://yufeiran.com/you-di-yuan-wen-ti-yu-tui-huo-suan-fa/)
